@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Servic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_1", "JWT_1\JWT_1.csproj", "{383FE5B7-D2D8-4C74-9B49-61E3B8D3B356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_MVC", "JWT_MVC\JWT_MVC.csproj", "{7F244B9F-BD1A-4B75-85B1-77396718E7FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{383FE5B7-D2D8-4C74-9B49-61E3B8D3B356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{383FE5B7-D2D8-4C74-9B49-61E3B8D3B356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{383FE5B7-D2D8-4C74-9B49-61E3B8D3B356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F244B9F-BD1A-4B75-85B1-77396718E7FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F244B9F-BD1A-4B75-85B1-77396718E7FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F244B9F-BD1A-4B75-85B1-77396718E7FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F244B9F-BD1A-4B75-85B1-77396718E7FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
